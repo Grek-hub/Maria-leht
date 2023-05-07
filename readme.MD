@@ -1,7 +1,4 @@
- <!-- Link image -->
- <div align="center">
-     <img src="https://i.imgur.com/5Fv9Zae.png"/>
- </div>
+
 
  <br/>
  <br/>
